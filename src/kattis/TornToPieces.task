@@ -1,0 +1,51 @@
+12 TornToPieces
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+73 3
+Uptown Midtown
+Midtown Uptown Downtown
+Downtown Midtown
+Uptown Downtown
+24 Uptown Midtown Downtown
+
+1
+1
+35 6
+A B
+B A D
+C D
+E D F G
+F E
+G E
+F A
+10 F E D B A
+
+1
+2
+124 4
+FirstStop SecondStop
+SecondStop FirstStop ThirdStop
+FifthStop FourthStop SixthStop
+SixthStop FifthStop
+FirstStop FifthStop
+14 no route found
+1
+10 src/kattis
+16 -Xmx256m -Xss64m
+4 Main
+19 kattis.TornToPieces
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.29
+0 
+1
+20 codebook.FastScanner
+19 java.io.PrintWriter
+0
+0
